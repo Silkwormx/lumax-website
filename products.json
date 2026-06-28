@@ -1,0 +1,1450 @@
+[
+  {
+    "id": "product-5-amino-1mq",
+    "name": "5-Amino-1MQ",
+    "price": "$50 - $100",
+    "desc": "5-Amino-1MQ is supplied as a laboratory research material for metabolic pathway and receptor-signaling studies and cellular maintenance and aging-pathway studies. Catalog packages include 10mg and 50mg.",
+    "dosages": [
+      "10mg",
+      "50mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 50,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 200,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 350,
+        "save": 30
+      }
+    ],
+    "stock": "96 of 96 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-5amino1q-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210356.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "50mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210357.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 2
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-aod-9604",
+    "name": "AOD 9604",
+    "price": "$50 - $80",
+    "desc": "AOD 9604 is supplied as a laboratory research material for metabolic pathway and receptor-signaling studies. Catalog packages include 5mg and 10mg.",
+    "dosages": [
+      "5mg",
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 50,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 200,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 350,
+        "save": 30
+      }
+    ],
+    "stock": "8 of 8 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-aod9604-5mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "5mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "5mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210331.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210332.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 2
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-bacteriostatic-water",
+    "name": "Bacteriostatic Water",
+    "price": "$2 - $4",
+    "desc": "Bacteriostatic Water is supplied as a laboratory research material for laboratory preparation and handling workflows. Catalog packages include 3ml and 10ml.",
+    "dosages": [
+      "Water (H\u2082O)",
+      "Benzyl Alcohol (0.9%)",
+      "3ml",
+      "10ml"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 2,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 10,
+        "save": null
+      },
+      {
+        "label": "10 Vials",
+        "price": 20,
+        "save": null
+      }
+    ],
+    "stock": "431 of 431 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": null,
+    "add_label": "Water (H\u2082O)",
+    "coa": {
+      "pending": true,
+      "items": [],
+      "count": 0
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-bpc-tb-combo",
+    "name": "BPC + TB Combo",
+    "price": "$80",
+    "desc": "BPC + TB Combo is supplied as a laboratory research material for peptide signaling and tissue-response studies and cellular maintenance and aging-pathway studies. Catalog package available: 20mg total (10mg each).",
+    "dosages": [
+      "BPC-157",
+      "TB-500 (Thymosin \u03b24)",
+      "20mg total (10mg each)"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 80,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 320,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 560,
+        "save": 30
+      }
+    ],
+    "stock": "83 of 83 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-bpc157-tb-500-20mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "BPC-157",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "20mg total (10mg each)",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210348.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-bpc-157",
+    "name": "BPC-157",
+    "price": "$50",
+    "desc": "BPC-157 is supplied as a laboratory research material for peptide signaling and tissue-response studies and cellular maintenance and aging-pathway studies. Catalog package available: 10mg.",
+    "dosages": [
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 50,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 200,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 350,
+        "save": 30
+      }
+    ],
+    "stock": "69 of 69 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-bpc157-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210355.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-cjc-1295",
+    "name": "CJC-1295",
+    "price": "$50 - $70",
+    "desc": "CJC-1295 is supplied as a laboratory research material for endocrine and receptor-signaling studies and peptide signaling and tissue-response studies. Catalog packages include 10mg, 5mg + DAC, and 10mg + IPA (no DAC).",
+    "dosages": [
+      "10mg",
+      "5mg + DAC",
+      "10mg + IPA (no DAC)"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 70,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 280,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 490,
+        "save": 30
+      }
+    ],
+    "stock": "99 of 99 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-cjc-1295-wo-dac-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210345.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "5mg + DAC",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210351.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "10mg + IPA (no DAC)",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210343.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 3
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-epithalon",
+    "name": "Epithalon",
+    "price": "$80",
+    "desc": "Epithalon is supplied as a laboratory research material for cellular maintenance and aging-pathway studies. Catalog package available: 50mg.",
+    "dosages": [
+      "50mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 80,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 320,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 560,
+        "save": 30
+      }
+    ],
+    "stock": "99 of 99 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-epithalon-50mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "50mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "50mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210330.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-ghk-cu",
+    "name": "GHK-CU",
+    "price": "$40 - $70",
+    "desc": "GHK-CU is supplied as a laboratory research material for cellular maintenance and aging-pathway studies and peptide signaling and tissue-response studies. Catalog packages include 50mg and 100mg.",
+    "dosages": [
+      "50mg",
+      "100mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 40,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 160,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 280,
+        "save": 30
+      }
+    ],
+    "stock": "138 of 138 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-ghk-cu-50mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "50mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "50mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210360.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "100mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210361.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 2
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-ghrp-2",
+    "name": "GHRP-2",
+    "price": "$30",
+    "desc": "GHRP-2 is supplied as a laboratory research material for endocrine and receptor-signaling studies and peptide signaling and tissue-response studies. Catalog package available: 10mg.",
+    "dosages": [
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 30,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 120,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 210,
+        "save": 30
+      }
+    ],
+    "stock": "9 of 9 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-ghrp-2-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": true,
+      "items": [],
+      "count": 0
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-glow",
+    "name": "GLOW",
+    "price": "$90",
+    "desc": "GLOW is supplied as a laboratory research material for cellular maintenance and aging-pathway studies and peptide signaling and tissue-response studies. Catalog package available: 70mg.",
+    "dosages": [
+      "BPC-157",
+      "TB-500 (Thymosin \u03b24)",
+      "GHK-Cu",
+      "70mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 90,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 360,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 630,
+        "save": 30
+      }
+    ],
+    "stock": "41 of 41 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-glow-70mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "BPC-157",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "70mg",
+          "href": "https://chromate.org/verify?c=29438_AFFORD4N2GYT",
+          "text": "COA (11/03/2025)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-glutathione",
+    "name": "Glutathione",
+    "price": "$50",
+    "desc": "Glutathione is supplied as a laboratory research material for cellular maintenance and aging-pathway studies. Catalog package available: 1500mg.",
+    "dosages": [
+      "1500mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 50,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 200,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 350,
+        "save": 30
+      }
+    ],
+    "stock": "494 of 494 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-glutathione-1500mg-10ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "1500mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "1500mg",
+          "href": "https://chromate.org/verify?c=29998_AFFORDB3Z5T9",
+          "text": "COA (11/26/2025)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-hcg",
+    "name": "HCG",
+    "price": "$60",
+    "desc": "HCG is supplied as a laboratory research material for endocrine and receptor-signaling studies and laboratory preparation and handling workflows. Catalog package available: 10,000 IU.",
+    "dosages": [
+      "10,000 IU"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 60,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 240,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 420,
+        "save": 30
+      }
+    ],
+    "stock": "95 of 95 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-hcg-10k-iu-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10,000 IU",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10,000 IU",
+          "href": "https://chromate.org/verify?c=29531_AFFORD8269U5",
+          "text": "COA (11/17/2025)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-igf-1-lr3",
+    "name": "IGF-1 LR3",
+    "price": "$70",
+    "desc": "IGF-1 LR3 is supplied as a laboratory research material for endocrine and receptor-signaling studies and peptide signaling and tissue-response studies. Catalog package available: 1mg.",
+    "dosages": [
+      "1mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 70,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 280,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 490,
+        "save": 30
+      }
+    ],
+    "stock": "97 of 97 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-igf-1-lr3-1mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "1mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "1mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210346.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-ipamorelin",
+    "name": "Ipamorelin",
+    "price": "$50",
+    "desc": "Ipamorelin is supplied as a laboratory research material for endocrine and receptor-signaling studies and peptide signaling and tissue-response studies. Catalog package available: 10mg.",
+    "dosages": [
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 50,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 200,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 350,
+        "save": 30
+      }
+    ],
+    "stock": "97 of 97 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-ipamorelin-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210347.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-klow",
+    "name": "KLOW",
+    "price": "$100",
+    "desc": "KLOW is supplied as a laboratory research material for cellular maintenance and aging-pathway studies and peptide signaling and tissue-response studies. Catalog package available: 80mg.",
+    "dosages": [
+      "GHK-Cu",
+      "KPV (Lys-Pro-Val)",
+      "BPC-157",
+      "TB-500 (Thymosin \u03b24)",
+      "80mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 100,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 400,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 700,
+        "save": 30
+      }
+    ],
+    "stock": "56 of 56 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-klow-80mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "GHK-Cu",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "80mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210359.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-kpv",
+    "name": "KPV",
+    "price": "$70",
+    "desc": "KPV is supplied as a laboratory research material for peptide signaling and tissue-response studies and cellular maintenance and aging-pathway studies. Catalog package available: 10mg.",
+    "dosages": [
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 70,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 280,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 490,
+        "save": 30
+      }
+    ],
+    "stock": "98 of 98 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-kpv-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210344.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-l-carnitine",
+    "name": "L-Carnitine",
+    "price": "$60",
+    "desc": "L-Carnitine is supplied as a laboratory research material for metabolic pathway and receptor-signaling studies. Catalog package available: 10ml (600mg/ml).",
+    "dosages": [
+      "10ml (600mg/ml)"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 60,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 240,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 420,
+        "save": 30
+      }
+    ],
+    "stock": "24 of 24 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-l-carnatine-600mg-10ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10ml (600mg/ml)",
+    "coa": {
+      "pending": true,
+      "items": [],
+      "count": 0
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-lipo-c",
+    "name": "Lipo-C",
+    "price": "$60",
+    "desc": "Lipo-C is supplied as a laboratory research material for metabolic pathway and receptor-signaling studies. Catalog packages include 10ml (With B12) and 10ml (No B12).",
+    "dosages": [
+      "Methionine",
+      "Inositol",
+      "Choline",
+      "L-Carnitine",
+      "L-Arginine",
+      "Dexpanthenol (Vitamin B5)",
+      "Cyanocobalamin (B12)",
+      "10ml (With B12)",
+      "10ml (No B12)"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 60,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 240,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 420,
+        "save": 30
+      }
+    ],
+    "stock": "7 of 7 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-lipo-c-10ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "Methionine",
+    "coa": {
+      "pending": true,
+      "items": [],
+      "count": 0
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-melanotan-ii",
+    "name": "Melanotan II",
+    "price": "$40",
+    "desc": "Melanotan II is supplied as a laboratory research material for cellular maintenance and aging-pathway studies. Catalog package available: 10mg.",
+    "dosages": [
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 40,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 160,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 280,
+        "save": 30
+      }
+    ],
+    "stock": "86 of 86 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-melanotan-ii-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210350.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-mots-c",
+    "name": "MOTS-C",
+    "price": "$40 - $100",
+    "desc": "MOTS-C is supplied as a laboratory research material for metabolic pathway and receptor-signaling studies and cellular maintenance and aging-pathway studies. Catalog packages include 10mg and 40mg.",
+    "dosages": [
+      "10mg",
+      "40mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 40,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 160,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 280,
+        "save": 30
+      }
+    ],
+    "stock": "53 of 53 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-mots-c-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210335.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "40mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210336.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 2
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-nad",
+    "name": "NAD+",
+    "price": "$60 - $100",
+    "desc": "NAD+ is supplied as a laboratory research material for cellular maintenance and aging-pathway studies and metabolic pathway and receptor-signaling studies. Catalog packages include 500mg and 1000mg.",
+    "dosages": [
+      "500mg",
+      "1000mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 60,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 240,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 420,
+        "save": 30
+      }
+    ],
+    "stock": "85 of 85 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-nad-500mg-10ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "500mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "500mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210328.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "1000mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2606010044.pdf",
+          "text": "COA (06/02/2026)"
+        }
+      ],
+      "count": 4
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-retatrutide",
+    "name": "Retatrutide",
+    "price": "$100 - $200",
+    "desc": "Retatrutide is supplied as a laboratory research material for metabolic pathway and receptor-signaling studies. Catalog packages include 10mg, 20mg, and 30mg.",
+    "dosages": [
+      "10mg",
+      "20mg",
+      "30mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 100,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 400,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 700,
+        "save": 30
+      }
+    ],
+    "stock": "436 of 436 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-retatrutide-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210333.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "20mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2606170040.pdf",
+          "text": "COA (06/17/2026)"
+        },
+        {
+          "dose": "30mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2606080253.pdf",
+          "text": "COA (06/09/2026)"
+        }
+      ],
+      "count": 8
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-selank",
+    "name": "Selank",
+    "price": "$50",
+    "desc": "Selank is supplied as a laboratory research material for cellular maintenance and aging-pathway studies and peptide signaling and tissue-response studies. Catalog package available: 10mg.",
+    "dosages": [
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 50,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 200,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 350,
+        "save": 30
+      }
+    ],
+    "stock": "148 of 148 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-selank-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210354.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-semax",
+    "name": "Semax",
+    "price": "$50",
+    "desc": "Semax is supplied as a laboratory research material for cellular maintenance and aging-pathway studies and peptide signaling and tissue-response studies. Catalog package available: 10mg.",
+    "dosages": [
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 50,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 200,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 350,
+        "save": 30
+      }
+    ],
+    "stock": "91 of 91 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-semax-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210353.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-sermorelin",
+    "name": "Sermorelin",
+    "price": "$70",
+    "desc": "Sermorelin is supplied as a laboratory research material for endocrine and receptor-signaling studies and peptide signaling and tissue-response studies. Catalog package available: 10mg.",
+    "dosages": [
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 70,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 280,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 490,
+        "save": 30
+      }
+    ],
+    "stock": "35 of 35 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-sermorelin-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210342.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-ss-31",
+    "name": "SS-31",
+    "price": "$135",
+    "desc": "SS-31 is supplied as a laboratory research material for cellular maintenance and aging-pathway studies and peptide signaling and tissue-response studies. Catalog package available: 50mg.",
+    "dosages": [
+      "50mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 135,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 540,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 945,
+        "save": 30
+      }
+    ],
+    "stock": "50 of 50 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-SS-31-50mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "50mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "50mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2606170041.pdf",
+          "text": "COA (06/17/2026)"
+        }
+      ],
+      "count": 1
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-tb-500",
+    "name": "TB-500",
+    "price": "$60",
+    "desc": "TB-500 is supplied as a laboratory research material for peptide signaling and tissue-response studies and cellular maintenance and aging-pathway studies. Catalog package available: 10mg.",
+    "dosages": [
+      "10mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 60,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 240,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 420,
+        "save": 30
+      }
+    ],
+    "stock": "97 of 97 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-tb500-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2606010049.pdf",
+          "text": "COA (06/02/2026)"
+        }
+      ],
+      "count": 2
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-tesamorelin",
+    "name": "Tesamorelin",
+    "price": "$60 - $100",
+    "desc": "Tesamorelin is supplied as a laboratory research material for endocrine and receptor-signaling studies and metabolic pathway and receptor-signaling studies. Catalog packages include 10mg and 20mg.",
+    "dosages": [
+      "10mg",
+      "20mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 60,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 240,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 420,
+        "save": 30
+      }
+    ],
+    "stock": "67 of 67 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-tesamorelin-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210349.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "20mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2606010048.pdf",
+          "text": "COA (06/02/2026)"
+        }
+      ],
+      "count": 3
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-tirzepatide",
+    "name": "Tirzepatide",
+    "price": "$80 - $200",
+    "desc": "Tirzepatide is supplied as a laboratory research material for metabolic pathway and receptor-signaling studies. Catalog packages include 10mg, 20mg, 30mg, and 40mg.",
+    "dosages": [
+      "10mg",
+      "20mg",
+      "30mg",
+      "40mg"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 80,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 320,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 560,
+        "save": 30
+      }
+    ],
+    "stock": "83 of 83 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-tirzepatide-10mg-3ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10mg",
+    "coa": {
+      "pending": false,
+      "items": [
+        {
+          "dose": "10mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2603230260.pdf",
+          "text": "COA (03/24/2026)"
+        },
+        {
+          "dose": "20mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210337.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "30mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210338.pdf",
+          "text": "COA (05/23/2026)"
+        },
+        {
+          "dose": "40mg",
+          "href": "https://coas.freedomdiagnosticstesting.com/Affo2605210340.pdf",
+          "text": "COA (05/23/2026)"
+        }
+      ],
+      "count": 5
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  },
+  {
+    "id": "product-vitamin-b12-1mg-ml-10ml-bottle",
+    "name": "Vitamin B12 1mg/mL - 10ml Bottle",
+    "price": "$60",
+    "desc": "Vitamin B12 1mg/mL - 10ml Bottle is supplied as a laboratory research material for laboratory preparation and handling workflows and cellular maintenance and aging-pathway studies. Catalog package available: 10ml (1mg/mL).",
+    "dosages": [
+      "10ml (1mg/mL)"
+    ],
+    "mol_note": "Preparing viewer",
+    "mol_components": [],
+    "tiers": [
+      {
+        "label": "1 Vial",
+        "price": 60,
+        "save": null
+      },
+      {
+        "label": "5 Vials",
+        "price": 240,
+        "save": 20
+      },
+      {
+        "label": "10 Vials",
+        "price": 420,
+        "save": 30
+      }
+    ],
+    "stock": "85 of 85 units available",
+    "bottle_img": "/_next/image?url=%2Fproducts%2Fmock-peptide-bottle.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "label_img": "/_next/image?url=%2Fproducts%2Flabel-b12-10mg-10ml.png&w=3840&q=75&dpl=dpl_87WY27TX5ny2b6CMbYZqhtoyt9n5",
+    "add_label": "10ml (1mg/mL)",
+    "coa": {
+      "pending": true,
+      "items": [],
+      "count": 0
+    },
+    "categories": [],
+    "featured": false,
+    "in_stock": true
+  }
+]

@@ -1,0 +1,34 @@
+/* Lumax Peptides custom overrides */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+#cart-toggle {
+  position: fixed;
+}
+
+#cart-count {
+  position: absolute;
+}
+
+.product-card img {
+  max-height: 8rem;
+}
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  #product-grid {
+    grid-template-columns: 1fr;
+  }
+}
